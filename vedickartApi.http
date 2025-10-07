@@ -1,0 +1,6 @@
+@vedickartApi_HostAddress = http://localhost:5110
+
+GET {{vedickartApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

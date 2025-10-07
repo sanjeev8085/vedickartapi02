@@ -1,0 +1,91 @@
+[
+  {
+    "ContainingType": "vedickartApi.Api.Controllers.LoginController",
+    "Method": "Authenticate",
+    "RelativePath": "api/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userRegistrationDto",
+        "Type": "VadicKart.Entity.Presentation.Dto.LogIn.UserRegistrationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "vedickartApi.Api.Controllers.LoginController",
+    "Method": "GetProfile",
+    "RelativePath": "api/profile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "vedickartApi.Api.Controllers.LoginController",
+    "Method": "SignUp",
+    "RelativePath": "api/signup",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "signUpDto",
+        "Type": "VadicKart.Entity.Presentation.Dto.LogIn.Sign_up_Dto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "vedickartApi.Api.Controllers.ContactMessageController",
+    "Method": "GetAllContactMessage",
+    "RelativePath": "ContactMessage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "OrderBy",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SearchTerm",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "vedickartApi.Api.Controllers.ContactMessageController",
+    "Method": "CreateContactMessage",
+    "RelativePath": "ContactMessage",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contactMassagecs",
+        "Type": "VadicKart.Entity.Presentation.Dto.ContactMessage.ContactMassagecsCreationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
