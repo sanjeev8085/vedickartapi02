@@ -1,0 +1,12 @@
+D:\vedickart\Contracts\bin\Debug\net9.0\Contracts.deps.json
+D:\vedickart\Contracts\bin\Debug\net9.0\Contracts.dll
+D:\vedickart\Contracts\bin\Debug\net9.0\Contracts.pdb
+D:\vedickart\Contracts\obj\Debug\net9.0\Contracts.csproj.AssemblyReference.cache
+D:\vedickart\Contracts\obj\Debug\net9.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\vedickart\Contracts\obj\Debug\net9.0\Contracts.AssemblyInfoInputs.cache
+D:\vedickart\Contracts\obj\Debug\net9.0\Contracts.AssemblyInfo.cs
+D:\vedickart\Contracts\obj\Debug\net9.0\Contracts.csproj.CoreCompileInputs.cache
+D:\vedickart\Contracts\obj\Debug\net9.0\Contracts.dll
+D:\vedickart\Contracts\obj\Debug\net9.0\refint\Contracts.dll
+D:\vedickart\Contracts\obj\Debug\net9.0\Contracts.pdb
+D:\vedickart\Contracts\obj\Debug\net9.0\ref\Contracts.dll

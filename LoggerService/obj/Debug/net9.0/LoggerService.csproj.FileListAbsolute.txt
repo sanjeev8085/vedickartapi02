@@ -1,0 +1,15 @@
+D:\vedickart\LoggerService\bin\Debug\net9.0\LoggerService.deps.json
+D:\vedickart\LoggerService\bin\Debug\net9.0\LoggerService.dll
+D:\vedickart\LoggerService\bin\Debug\net9.0\LoggerService.pdb
+D:\vedickart\LoggerService\bin\Debug\net9.0\Contracts.dll
+D:\vedickart\LoggerService\bin\Debug\net9.0\Contracts.pdb
+D:\vedickart\LoggerService\obj\Debug\net9.0\LoggerService.csproj.AssemblyReference.cache
+D:\vedickart\LoggerService\obj\Debug\net9.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\vedickart\LoggerService\obj\Debug\net9.0\LoggerService.AssemblyInfoInputs.cache
+D:\vedickart\LoggerService\obj\Debug\net9.0\LoggerService.AssemblyInfo.cs
+D:\vedickart\LoggerService\obj\Debug\net9.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\vedickart\LoggerService\obj\Debug\net9.0\LoggerSe.E7AEA5A8.Up2Date
+D:\vedickart\LoggerService\obj\Debug\net9.0\LoggerService.dll
+D:\vedickart\LoggerService\obj\Debug\net9.0\refint\LoggerService.dll
+D:\vedickart\LoggerService\obj\Debug\net9.0\LoggerService.pdb
+D:\vedickart\LoggerService\obj\Debug\net9.0\ref\LoggerService.dll
